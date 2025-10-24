@@ -1,0 +1,63 @@
+   
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 
+body{
+    background:url(img/pohon.png), url(img/cactus-travis.jpg);
+    color: white;
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, top;
+    background-size: auto, cover;
+}
+
+h2{
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.kotak{
+    padding: 50px;
+    width: 100px;
+    color: #fff;
+    background: orange;
+    margin: 10px;
+}
+
+#kotak{
+    padding: 50px;
+    width: 400px;
+    color: #fff;
+    background: rgb(0, 60, 255);
+    
+} */
+
+
+
+.main{
+    background-color: lightblue;
+    width: 800px;
+
+}
+
+/* .navigasi{
+    display: flex;
+} */
+
+a{
+    background-color: pink;
+    width: 200px;  
+    display:inline-block;
+}
+
+p,h1,h2{
+    background-color: lime;
+}
+
+.main h2{
+    background-color: pink;
+    margin-top: 10px;
+}

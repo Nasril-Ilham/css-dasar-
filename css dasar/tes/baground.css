@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(255, 255, 255);
+}
+
+/* h1{
+    color: cornsilk;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.box{
+    background: blue;
+    height: 200px;
+    width: 300px;
+   padding: 20px;
+    text-align: center;
+    margin: 300px;
+}
+
+.box-kedua{
+    background: black;
+    height: 100px;
+    width: 600px;
+    padding-left: 70px;
+    text-align: center;
+} */
+
+
+
+/* .tulisan-1{
+color: red;
+font-style: normal;
+font-family: sans-serif;
+}
+
+.tulisan-2{
+color: blue;
+font-size: 24px;
+font-style: italic;
+}
+
+.tulisan-3{
+color: green;
+font-weight: bold;
+font-style: oblique;
+} */
+
+/* .link-box{
+
+
+    margin-top: 220px;
+}
+
+.link{
+    text-align: center;
+    font-size: 20pt;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: red;
+}
+
+.link:link{
+    color:blue;
+} */
+
+/* .tulisan-warna{
+    color: rgb(0, 81, 255);
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 5px;
+}
+
+.par1{
+    text-align: center;
+    color: blue;
+    letter-spacing: 5px;
+} */
+
+
+
+
+/*  */
+
+.satu{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom:150px ;
+    margin-right:50px ;
+}
+
+.dua{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.tiga{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
